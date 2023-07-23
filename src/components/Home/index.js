@@ -25,7 +25,7 @@ const Home = () => {
   return (
     <div className="bg-container">
       <Navbar />
-      <h1 className="home-heading">Airport Transfer Booking App</h1>
+      <h1 className="home-heading">Airlines Transfer Booking App</h1>
 
       <SearchForm
         pointA={pointA}
